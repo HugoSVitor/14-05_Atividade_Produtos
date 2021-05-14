@@ -1,0 +1,16 @@
+C:\Users\Carol\Desktop\13.05_Atividade\bin\Debug\net5.0\13.05_Atividade.exe
+C:\Users\Carol\Desktop\13.05_Atividade\bin\Debug\net5.0\13.05_Atividade.deps.json
+C:\Users\Carol\Desktop\13.05_Atividade\bin\Debug\net5.0\13.05_Atividade.runtimeconfig.json
+C:\Users\Carol\Desktop\13.05_Atividade\bin\Debug\net5.0\13.05_Atividade.runtimeconfig.dev.json
+C:\Users\Carol\Desktop\13.05_Atividade\bin\Debug\net5.0\13.05_Atividade.dll
+C:\Users\Carol\Desktop\13.05_Atividade\bin\Debug\net5.0\ref\13.05_Atividade.dll
+C:\Users\Carol\Desktop\13.05_Atividade\bin\Debug\net5.0\13.05_Atividade.pdb
+C:\Users\Carol\Desktop\13.05_Atividade\obj\Debug\net5.0\13.05_Atividade.csprojAssemblyReference.cache
+C:\Users\Carol\Desktop\13.05_Atividade\obj\Debug\net5.0\13.05_Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carol\Desktop\13.05_Atividade\obj\Debug\net5.0\13.05_Atividade.AssemblyInfoInputs.cache
+C:\Users\Carol\Desktop\13.05_Atividade\obj\Debug\net5.0\13.05_Atividade.AssemblyInfo.cs
+C:\Users\Carol\Desktop\13.05_Atividade\obj\Debug\net5.0\13.05_Atividade.csproj.CoreCompileInputs.cache
+C:\Users\Carol\Desktop\13.05_Atividade\obj\Debug\net5.0\13.05_Atividade.dll
+C:\Users\Carol\Desktop\13.05_Atividade\obj\Debug\net5.0\ref\13.05_Atividade.dll
+C:\Users\Carol\Desktop\13.05_Atividade\obj\Debug\net5.0\13.05_Atividade.pdb
+C:\Users\Carol\Desktop\13.05_Atividade\obj\Debug\net5.0\13.05_Atividade.genruntimeconfig.cache
